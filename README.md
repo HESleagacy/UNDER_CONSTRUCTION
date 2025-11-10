@@ -17,6 +17,14 @@
 
 ---
 
+This work draws inspiration and guidance from the book  
+**_Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow_**  
+by **Aurélien Géron**.
+
+
+---
+
 ### API Endpoint
 ```bash
 POST /predict
+
